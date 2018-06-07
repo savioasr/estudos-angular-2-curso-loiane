@@ -1,0 +1,14 @@
+- Criar projeto angular usando o @angular/cli
+	ng new primeiro-projeto
+
+- Criar component via @angular/cli
+	ng g c primeiro-component
+
+- Novidades ECMAScript 6
+	http://es6-features.org/
+
+- Compilador de JS para ECMAScript 6
+	http://babeljs.io/
+
+- Programação Funcional
+	https://medium.com/tableless/entendendo-programa%C3%A7%C3%A3o-funcional-em-javascript-de-uma-vez-c676489be08b
